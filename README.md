@@ -2,10 +2,6 @@
 
 ![pongoal screenshot](png/screenshot.png)
 
-### Documentation
-
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
-
 ### Contribute to this repository
 
 1. In the top-right corner of this page, click **Fork**.
